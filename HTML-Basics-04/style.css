@@ -1,0 +1,20 @@
+body{
+    
+    background-image:url('f11.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    color: aquamarine;
+}
+ul{color: azure;}
+h1{color: aquamarine;
+    font-size:50px;
+    border-style: outset;
+    border-color:azure;
+    border-width:10px ;
+}
+#carro1{
+    color:goldenrod;
+}
+#exemplo p{
+color: chartreuse;
+}
